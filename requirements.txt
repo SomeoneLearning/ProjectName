@@ -1,0 +1,5 @@
+numpy==1.23.5
+pandas==1.5.3
+seaborn==0.13.2
+
+pipdeptree==2.21.0
