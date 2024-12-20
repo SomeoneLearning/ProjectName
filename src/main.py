@@ -3,7 +3,7 @@
 @filename    : main.py
 @description : 项目主程序，用于启动项目
 @time        : 2024/12/20
-@author      : Zhao Pengpeng
+@author      : SomeoneLearning
 '''
 
 

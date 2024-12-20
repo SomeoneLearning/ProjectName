@@ -3,7 +3,7 @@
 @filename    : package.py
 @description : 自定义常用的函数
 @time        : 2024/12/19
-@author      : Zhao Pengpeng
+@author      : SomeoneLearning
 '''
 
 import os

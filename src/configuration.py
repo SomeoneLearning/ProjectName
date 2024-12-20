@@ -4,7 +4,7 @@
 @filename    : configuration.py
 @description : 从项目的settings文件夹中读取.ini,.json,.yaml,.txt 等配置文件,并解析配置文件内容。
 @time        : 2024/12/20
-@author      : Zhao Pengpeng
+@author      : SomeoneLearning
 '''
 
 import os
