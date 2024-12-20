@@ -1,7 +1,7 @@
 # -*- encoding: UTF-8 -*-
 '''
 @filename    : package.py
-@description : 自定义常用的函数
+@description : 从data文件夹中读取excel文件,并处理数据。
 @time        : 2024/12/19
 @author      : SomeoneLearning
 '''
